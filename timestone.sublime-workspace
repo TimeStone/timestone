@@ -1,0 +1,606 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"by",
+				"bypass"
+			],
+			[
+				"bra",
+				"branch"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"bug",
+				"bug_priority"
+			],
+			[
+				"re",
+				"reject"
+			],
+			[
+				"p4",
+				"p4jobs"
+			],
+			[
+				"check",
+				"check_result"
+			],
+			[
+				"ul",
+				"unless	Conditional"
+			],
+			[
+				"build",
+				"buildid"
+			],
+			[
+				"branch",
+				"branch_type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 45.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Mp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"MP",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"SSM",
+				"Set Syntax: Markdown"
+			],
+			[
+				"MARKDOWN",
+				"Markdown Slideshow"
+			],
+			[
+				"pcic",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"preview",
+				"Markdown HTML Preview"
+			],
+			[
+				"PCIC",
+				"Package Control: Install Package"
+			],
+			[
+				"PC",
+				"Package Control: Remove Package"
+			],
+			[
+				"Markd",
+				"MarkdownEditing: Fix Underlined Headers"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 72.0,
+		"history":
+		[
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/pursue_data/timestone/src/test"
+	],
+	"file_history":
+	[
+		"/C/Users/kren/AppData/Local/Temp/S94ZzI74",
+		"/C/Users/kren/AppData/Local/Temp/gcov.sh",
+		"/C/pursue_data/timestone/src/test/test.py",
+		"/C/work/bm_notes.txt",
+		"/C/pursue_data/timestone/README",
+		"/C/pursue_data/timestone/kits/bashrc.sh",
+		"/C/Users/kren/AppData/Local/Temp/HistoricalQuotes.csv",
+		"/C/Users/kren/AppData/Local/Temp/table-1.csv",
+		"/C/Users/kren/AppData/Local/Temp/coverage.report",
+		"/C/Users/kren/AppData/Local/Temp/test.xml",
+		"/C/work/aa.pl",
+		"/C/Users/kren/Desktop/cobertura-report.sh",
+		"/C/work/test.xml",
+		"/C/Users/kren/Desktop/test",
+		"/C/Users/kren/Desktop/jacoco/jacoco-multi/pom.xml",
+		"/C/Users/kren/Desktop/jacoco/jacoco-multi/jacoco-multi-coverage/pom.xml",
+		"/C/Users/kren/Desktop/jacoco/jacoco-multi/jacoco-multi-coverage/test.xml",
+		"/C/work/test",
+		"/C/Users/kren/Desktop/test.txt",
+		"/C/Users/kren/Desktop/temp/classes_main",
+		"/C/Users/kren/Desktop/temp/manaul_java.list",
+		"/C/Users/kren/Desktop/temp/generated-java-sources.list",
+		"/C/work/temp.xml",
+		"/C/Users/kren/Desktop/test.list",
+		"/C/Users/kren/Desktop/all_list.txt",
+		"/C/Users/kren/Downloads/东坡全集",
+		"/C/work/automerge.pl",
+		"/C/Users/kren/Desktop/fusion.7.1.conf",
+		"/C/Users/kren/AppData/Local/Temp/all_testsuites.xml.txt",
+		"/C/Users/kren/AppData/Local/Temp/testcases.xml.txt",
+		"/C/Users/kren/AppData/Local/Temp/96rQe1xE",
+		"/C/Users/kren/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1QHEMFV1/fusion 7 1.conf",
+		"/C/Users/kren/AppData/Local/Temp/ems-2.2.1.0-2041-190021-x86_64.log",
+		"/C/tools/Sublime Text Build 3065/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/work/fusion.txt",
+		"/C/Users/kren/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1QHEMFV1/triggers.out",
+		"/C/Users/kren/AppData/Local/Temp/WEHQSK99",
+		"/C/Users/kren/Desktop/1.txt",
+		"/C/work/upgrade",
+		"/C/Users/kren/Desktop/new_httpd.conf",
+		"/C/Users/kren/AppData/Local/Temp/YLHDWckq",
+		"/C/Users/kren/AppData/Local/Temp/rb46566.patch",
+		"/C/Users/kren/Downloads/rb46565.patch",
+		"/C/Users/kren/AppData/Local/Temp/8CxSXf3Z",
+		"/C/Users/kren/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1QHEMFV1/soc_by_changelist.rb",
+		"/C/Users/kren/AppData/Local/Temp/sk+dbxJz",
+		"/C/Users/kren/AppData/Local/Temp/l9SZgKBy",
+		"/C/Users/kren/AppData/Local/Temp/0kgl15m_",
+		"/C/Users/kren/AppData/Local/Temp/1GAKIJ6_",
+		"/C/Users/kren/AppData/Local/Temp/eh0Vtjfe",
+		"/C/Users/kren/AppData/Local/Temp/Pt6LkwR+",
+		"/C/Users/kren/Desktop/test.pl",
+		"/C/Users/kren/Desktop/aa.pl",
+		"/C/Users/kren/Desktop/triggers_new.txt",
+		"/C/tools/Sublime Text Build 3065/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/tools/Sublime Text Build 3065/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/kren/Desktop/BypassUdid-iOS6.1.tar",
+		"/C/Users/kren/Desktop/2.txt",
+		"/C/Program Files (x86)/爱思助手5.0/i4download/DownFirmware/BypassUdid-iOS6.1.tar.gz.txt",
+		"/C/Users/kren/.shsh/3242104028492-iphone3,1-7.1.2bGM.shsh",
+		"/C/Users/kren/Desktop/test.py",
+		"/C/work/test.py",
+		"/C/Users/kren/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1QHEMFV1/rb.txt",
+		"/C/work/html.html",
+		"/C/Users/kren/Desktop/Release Works/bugzilla upgrade",
+		"/C/work/bugzilla/bugzilla_upgrade.txt",
+		"/C/Users/kren/AppData/Local/Temp/README-1.md",
+		"/C/Users/kren/Desktop/temp/test.py",
+		"/C/Users/kren/Desktop/Release Works/install_review_bug",
+		"/C/Users/kren/Desktop/New Text Document.txt",
+		"/C/work/aa.mmd",
+		"/C/tools/Sublime Text Build 3065/Data/Packages/User/test.pl",
+		"/C/tools/Sublime Text Build 3065/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/work/aa.json",
+		"/C/Users/kren/AppData/Local/Temp/aa.ml",
+		"/C/Users/kren/AppData/Local/Temp/Q5YUEllR",
+		"/C/Users/kren/AppData/Local/Temp/s3Cj0QXX",
+		"/C/Users/kren/AppData/Local/Temp/ivyV8KoO",
+		"/C/work/a.mmd",
+		"/C/Users/kren/AppData/Local/Temp/ems.human.report",
+		"/C/tools/Sublime Text Build 3065/Data/Packages/User/Perl.sublime-build",
+		"/C/Users/kren/Desktop/Release Works/dockers",
+		"/C/Users/kren/Desktop/Release Works/Nx_key.txt",
+		"/C/Users/kren/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/1QHEMFV1/cant-without-i-178465.txt"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p4 integ -id ",
+			"fusion.mgmt",
+			" ",
+			"  +",
+			"pay",
+			" +",
+			"  +",
+			"bugzilla.bytem",
+			"build ",
+			" ",
+			"  +",
+			"gcovr",
+			"\\n",
+			"龍壇書網 » 成人轉載發表區 » 連載作品 ».*",
+			"龍壇書網 » 成人轉載發表區 » 連載作品 »",
+			"查看完整版本:.*$",
+			"第*卷",
+			"第四卷",
+			"苏樱的暧昧情事",
+			"t1t3",
+			" +",
+			"  +",
+			" +",
+			".",
+			".java",
+			"/com",
+			"$",
+			"^",
+			"poh",
+			"pho",
+			"poh",
+			"testFailureIgnore=true",
+			"  +",
+			" ",
+			"  +",
+			"-k ",
+			",",
+			"		",
+			"\\r\\r",
+			"lynx",
+			"exclude",
+			"^\\*\\*/",
+			",",
+			" ",
+			"  +",
+			"pho",
+			"  +",
+			" ",
+			"  +",
+			"\\?",
+			"?",
+			"crash",
+			":PD NOTMATCH   ",
+			"Warning: serveral match in diffirent product: ",
+			"#  ",
+			":PD NOTMATCH   ",
+			"Warning: serveral match in diffirent product: ",
+			"2.2",
+			"  +",
+			" ",
+			"  +",
+			"&gt; ",
+			"report.cgi",
+			"726",
+			"427",
+			" ",
+			"  +",
+			"朗",
+			" 	",
+			"煦",
+			"赤壁",
+			"应",
+			"沣",
+			"江",
+			"尧",
+			"济",
+			"杰",
+			"淳",
+			"君子",
+			"洛",
+			"真",
+			"钊",
+			"珅",
+			"峻",
+			"舒",
+			"/local	",
+			"api-get",
+			"rbt ap",
+			"^    ",
+			"p4t",
+			"pho",
+			"^    ",
+			"赤壁",
+			"聪明",
+			"源",
+			"江海",
+			"任",
+			"  +",
+			" +",
+			" ",
+			"  +",
+			"grant ",
+			" +",
+			" ",
+			"  +",
+			"curl ",
+			"pho",
+			"||",
+			"test",
+			"ARGV",
+			"merge_status",
+			"Usage",
+			"  +",
+			" +",
+			"pay",
+			"mysqldump",
+			"po",
+			"./*",
+			"${CLIENTROOT}",
+			"reviews",
+			"kren",
+			"sonar4.test",
+			"bugchk.sh",
+			"bugchk",
+			"110",
+			"\\",
+			" head",
+			"head "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"p4 revert ",
+			"\\t",
+			" ",
+			"",
+			"ek",
+			"\\t",
+			"/",
+			"",
+			"./com",
+			"</exclude>",
+			"<exclude>",
+			"\\t",
+			"  ",
+			" ",
+			"",
+			"ignore",
+			"<exclude>\\*\\*/",
+			"\\n",
+			"\\t",
+			"#",
+			"",
+			"#",
+			"",
+			"3.0",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"/local/",
+			"",
+			"\\t",
+			"/workspace",
+			"./*",
+			"/",
+			"\\t",
+			"notices",
+			"",
+			"\\t",
+			"",
+			"bugs_bmi",
+			"\\t",
+			"RHEL7.1-x86_64",
+			"\\t",
+			"/",
+			"",
+			"\\t",
+			"pip2.7 ",
+			"\\t",
+			"pip2.7 ",
+			"",
+			"./trigger-precommit-bug-check.pl ",
+			"",
+			"...",
+			"",
+			"    ",
+			"get_branches",
+			"\\t",
+			"/03/0",
+			"@now | wc -l",
+			"...@2015/01/01,@now",
+			"p4 changes //depot",
+			"/...\\n",
+			"//depot/fusion/",
+			"\\n",
+			"\\",
+			"\\t",
+			"\\t ",
+			"\\n-L  ",
+			"    ",
+			"     ",
+			"    ",
+			"\\t",
+			"2.5",
+			"2.4",
+			"    ",
+			"\\t",
+			"\\n",
+			",",
+			"\\n",
+			"\\t",
+			"/opt/coverity/LATEST_VERSION/cov-analysis-linux64-7.5.1/bin",
+			"/opt/coverity/LATEST_VERSION/cov-analysis-linux64-7.5.1/bin/cov-build",
+			"/usr/lib64/perl5",
+			"",
+			"\\t",
+			"/opt/bugzilla/html/bugzilla-4.2.3-x86_64-bmi/",
+			"/opt/bugzilla/html/bugzilla-4.2.3-x86_64-bmi",
+			"2021",
+			"180966",
+			"  ",
+			"\\t",
+			"",
+			"	",
+			"    ",
+			"pip install ",
+			"pip",
+			"==",
+			"",
+			"	",
+			"	9",
+			"	7",
+			"	6",
+			"	5",
+			"	3",
+			"	4",
+			"	8",
+			"	2",
+			"	1",
+			"	0",
+			"	",
+			",",
+			"",
+			"	",
+			"  ",
+			"\"\\$",
+			"$release_filer",
+			"	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 298.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "timestone.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
